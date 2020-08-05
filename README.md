@@ -4,7 +4,7 @@ Implementation of various machine learning algorithms from scratch
 ## K-means clustering
 K-means clustering was implemented from scratch and compared with sklearn implementation by clustering the iris dataset
 
-# GMM
+## GMM
 Implementation of Gaussian Mixture Models for clustering in iris dataset.
 
 ## PCA
